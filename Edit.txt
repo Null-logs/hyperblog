@@ -2,5 +2,3 @@ Esta es un mensaje secreto
 
 
 Hay cuatro tipos de personas me considero aquella que sabe lo que no sabe
-
-Eliminaremos esto con git reset HEAD
