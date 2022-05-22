@@ -1,8 +1,21 @@
 body{
 
     background-color: black;
-    color: teal;
-    text-align: center;
     font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
 
 }
+
+main{
+
+    width: 50%;
+    height: 150px;
+    margin-top: 50px;
+    border: 5px solid #DDD;
+    background-color: teal;
+    text-align: center;
+}
+
+
+
