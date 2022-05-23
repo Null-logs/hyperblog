@@ -5,7 +5,14 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
 
+header{
+    width: 80%;
+    height: 150px;
+    border: 5px solid #DDD;
+    background-color:tomato;
+    text-align: center;
 }
 
 main{
@@ -18,13 +25,20 @@ main{
     text-align: center;
 }
 
-header{
-    width: 80%;
-    height: 150px;
-    border: 5px solid #DDD;
-    background-color: teal;
-    text-align: center;
+
+
+ul{
+    padding: 0;
+    list-style-type: none;
+    text-align: center
 }
 
+li{
+    display: inline;
+}
 
+h3{
+    margin: 3px;
+    display: inline;
+}
 
