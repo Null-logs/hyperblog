@@ -3,6 +3,7 @@ body{
     background-color: black;
     font-family:'Times New Roman', Times, serif;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 
 }
@@ -12,6 +13,14 @@ main{
     width: 50%;
     height: 150px;
     margin-top: 50px;
+    border: 5px solid #DDD;
+    background-color: teal;
+    text-align: center;
+}
+
+header{
+    width: 80%;
+    height: 150px;
     border: 5px solid #DDD;
     background-color: teal;
     text-align: center;
