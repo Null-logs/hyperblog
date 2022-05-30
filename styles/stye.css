@@ -46,3 +46,19 @@ h3{
     display: inline;
 }
 
+p{
+    margin: 3px;
+    display: inline;
+}
+
+
+footer{
+
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: auto;
+    border: 5px solid #DDD;
+    background-color: seagreen;
+    text-align: center;
+}
