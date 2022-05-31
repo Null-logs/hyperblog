@@ -8,4 +8,7 @@ nuevo intento
 Más o menos entiendo los removes 
 
 
-Esto se realizo desde la pc dell ayuda porfavor 
+Esto se realizo desde la pc dell ayuda porfavor.
+
+
+All logs es la contraparte de nulllogs
