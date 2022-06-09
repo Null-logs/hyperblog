@@ -11,6 +11,13 @@ La verdad no se que poner, a si que po ahora dire que el readme.md es una buena 
 
 * galletas.
 * más galletas. 
+<<<<<<< HEAD
+=======
+* Patatas con melasa.
+* Agua.
+* Mas agua.
+* Bananas.
+>>>>>>> readme-mejorado
 
 
 **Nota: no tome esto en serio, menos lo del el niñito el si le sabe a git**
